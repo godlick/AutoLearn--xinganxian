@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['新干线挂机2.4.py'],
-             pathex=['C:\\Users\\11\\Desktop\\新干线挂机脚本\\新干线挂机'],
+             pathex=['C:\\Users\\11\\Desktop\\AutoLearn--xinganxian\\新干线挂机脚本\\新干线挂机'],
              binaries=[],
              datas=[],
              hiddenimports=[],

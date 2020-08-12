@@ -216,7 +216,9 @@ def selectCourse():
 		if(Ctrue == 4):
 			break
 	if(Ctrue == 1):
-		driver.find_element_by_xpath('/html/body/div/div[3]/div[2]/div[4]/div/a[7]').click()
+#		tt = driver.find_element_by_xpath('/html/body/div/div[3]/div[2]/div[4]/div')#.click()
+#		print(tt)
+		driver.find_element_by_link_text("下一页").click()
 		time.sleep(0.1)
 		selectCourse()
 
