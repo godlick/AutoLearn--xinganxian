@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['获取cookies.py'],
-             pathex=['C:\\Users\\11\\Desktop\\新干线挂机脚本\\cookies'],
+             pathex=['C:\\Users\\11\\Desktop\\AutoLearn--xinganxian\\新干线挂机脚本\\cookies'],
              binaries=[],
              datas=[],
              hiddenimports=[],
